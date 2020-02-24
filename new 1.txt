@@ -1,0 +1,7 @@
+# code challenge - 2/24/2020
+
+1. create html that holds the content = "w3resource"
+2. create css that places a box around the html and centers the content on the page
+3. create javascript that removes the first letter
+4. create javascript the puts the first letter back into the string at the end of the string
+5. create a button called "start"
